@@ -1,4 +1,4 @@
-# Ot server common
+# ot-server-common
 
 #### 项目介绍
    后端公共库
@@ -12,11 +12,11 @@
 ````
 
 ````
-    <parent>
+    <dependency>
       <groupId>com.onlythinking</groupId>
       <artifactId>ot-server-commons</artifactId>
       <version>1.0</version>
-    </parent>
+    </dependency>
   
     <repositories>
       <repository>
